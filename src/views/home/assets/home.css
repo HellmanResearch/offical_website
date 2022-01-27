@@ -1,0 +1,12 @@
+/*.box1 {*/
+/*    width: 100%;*/
+/*    background: url(./img/SketchPng2cf405b0b1176a4b0a487a297f18310547406df843a7a623bf8c077b096b6fc2.png) no-repeat;*/
+/*    background-size: 100% auto;*/
+/*    padding-top: 100%;*/
+/*}*/
+
+
+.page_background {
+    background: url(./img/SketchPng2cf405b0b1176a4b0a487a297f18310547406df843a7a623bf8c077b096b6fc2.png) 100% no-repeat;
+    background-size: 100% 100%;
+}

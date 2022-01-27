@@ -6,7 +6,9 @@
                     <div style="" class="group1 flex-col">
                         <div class="wrap1 flex-row justify-between">
                             <div class="group2 flex-col"></div>
-                            <span class="txt1">View</span>
+                            <a target="_blank" href="https://explorer.ssv.network/operators/e4edcb950ee9f4a4f89dde5e9b74b615c04f21f204884bc53ffe2bebbcea4b93">
+                                View
+                            </a>
                         </div>
                         <div class="wrap2 flex-col">
                             <img

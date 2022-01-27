@@ -4,5 +4,5 @@
   </div>
 </template>
 
-<style lang="css" src="./assets/common.css">
-</style>
+<!--<style lang="css" src="./assets/common.css">-->
+<!--</style>-->
