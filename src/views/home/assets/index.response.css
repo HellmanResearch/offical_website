@@ -1,0 +1,346 @@
+.page {
+  position: relative;
+  width: 100vw;
+  height: 116.15vw;
+  overflow: hidden;
+}
+
+.box1 {
+  width: 100vw;
+  height: 116.15vw;
+}
+
+.main1 {
+  z-index: 3;
+  height: 112.5vw;
+  overflow: hidden;
+  background: url(./img/SketchPnga4f82508398708399c6a0e6d71f4af4433787547913d2281782afc86ef93d195.png)
+    100% no-repeat;
+  padding-top: 1.05vw;
+  width: 100vw;
+  position: relative;
+}
+
+.group1 {
+  width: 100vw;
+  height: 111.46vw;
+}
+
+.wrap1 {
+  width: 68.86vw;
+  height: 2.45vw;
+  margin-left: 18.75vw;
+}
+
+.group2 {
+  width: 2.4vw;
+  height: 2.45vw;
+  background: url(./img/SketchPngb187f466f75eca38a5ba53f47fb1a94fbc111b1badf36909a094dd556b659a05.png)
+    100% no-repeat;
+}
+
+.txt1 {
+  width: 2.4vw;
+  height: 1.31vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.93vw;
+  letter-spacing: 1.5015789270401px;
+  white-space: nowrap;
+  line-height: 1.31vw;
+  text-align: left;
+  margin-top: 0.58vw;
+}
+
+.wrap2 {
+  z-index: 6;
+  position: relative;
+  width: 8.44vw;
+  height: 6.36vw;
+  overflow: hidden;
+  background: url(./img/SketchPng4d733bf42588a2beaa9f057adc772e8c1f516c7a832fd77388bb96d830a1a00d.png) -0.06vw -0.06vw
+    no-repeat;
+  background-size: 8.48vw 6.45vw;
+  margin: 14.94vw 0 0 18.02vw;
+}
+
+.pic1 {
+  z-index: 7;
+  position: absolute;
+  left: 0.84vw;
+  top: 0.68vw;
+  width: 6.78vw;
+  height: 5.47vw;
+}
+
+.wrap3 {
+  z-index: 10;
+  height: 56.25vw;
+  overflow: hidden;
+  background: url(./img/SketchPngb3b734375de691a8ba794eee7807988d78f942877ab220ebea0aac3bbddccd8b.png)
+    100% no-repeat;
+  margin-top: 31.46vw;
+  width: 100vw;
+  position: relative;
+}
+
+.outer1 {
+  z-index: 15;
+  height: 56.25vw;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100vw;
+  position: static;
+  left: 0;
+  top: 56.25vw;
+  justify-content: flex-center;
+}
+
+.mod1 {
+  width: 7.82vw;
+  height: 3.65vw;
+  margin: 13.54vw 0 0 46.09vw;
+}
+
+.txt2 {
+  width: 7.82vw;
+  height: 3.65vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 2.6vw;
+  letter-spacing: 3.5px;
+  font-family: PingFangSC-Semibold;
+  white-space: nowrap;
+  line-height: 3.65vw;
+  text-align: center;
+}
+
+.mod2 {
+  width: 67.66vw;
+  height: 2.19vw;
+  margin: 7.29vw 0 0 19.01vw;
+}
+
+.word1 {
+  width: 6.1vw;
+  height: 2.19vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.56vw;
+  letter-spacing: 2.0999999046325684px;
+  font-family: PingFangSC-Semibold;
+  white-space: nowrap;
+  line-height: 2.19vw;
+  text-align: center;
+}
+
+.txt3 {
+  width: 14.95vw;
+  height: 2.19vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.56vw;
+  letter-spacing: 2.0999999046325684px;
+  font-family: PingFangSC-Semibold;
+  white-space: nowrap;
+  line-height: 2.19vw;
+  text-align: center;
+  margin-left: 17.45vw;
+}
+
+.word2 {
+  width: 17.4vw;
+  height: 2.19vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.56vw;
+  letter-spacing: 2.0999999046325684px;
+  font-family: PingFangSC-Semibold;
+  white-space: nowrap;
+  line-height: 2.19vw;
+  text-align: center;
+  margin-left: 11.78vw;
+}
+
+.mod3 {
+  width: 78.18vw;
+  height: 13.44vw;
+  margin: 2.6vw 0 13.54vw 10.93vw;
+}
+
+.mod4 {
+  height: 13.44vw;
+  border: 1px solid rgba(255, 255, 255, 1);
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 22.24vw;
+  padding: 1.51vw 0 0 1.51vw;
+}
+
+.paragraph1 {
+  width: 18.86vw;
+  height: 8.6vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.25vw;
+  letter-spacing: 2.002105236053467px;
+  line-height: 1.72vw;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mod5 {
+  height: 13.44vw;
+  border: 1px solid rgba(255, 255, 255, 1);
+  background-color: rgba(0, 0, 0, 0.3);
+  padding-left: 1.52vw;
+  width: 22.24vw;
+}
+
+.word3 {
+  width: 18.86vw;
+  height: 10.32vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.25vw;
+  letter-spacing: 2.002105236053467px;
+  line-height: 1.72vw;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mod6 {
+  height: 13.44vw;
+  border: 1px solid rgba(255, 255, 255, 1);
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 22.24vw;
+  padding: 1.51vw 0 0 1.51vw;
+}
+
+.infoBox1 {
+  width: 18.86vw;
+  height: 8.6vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.25vw;
+  letter-spacing: 2.002105236053467px;
+  line-height: 1.72vw;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.img1 {
+  z-index: 11;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 56.25vw;
+}
+
+.txt4 {
+  z-index: 17;
+  position: absolute;
+  left: 27.24vw;
+  top: 17.97vw;
+  width: 27.97vw;
+  height: 7.3vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 5.2vw;
+  letter-spacing: 7px;
+  font-family: PingFangSC-Semibold;
+  white-space: nowrap;
+  line-height: 7.3vw;
+  text-align: center;
+}
+
+.group3 {
+  z-index: 8;
+  height: 32.09vw;
+  background: url(./img/SketchPngf07bf10bb7a3ee84ea9fae455f3cc618916de975100cfbf5c3d3c69026030e8f.png)
+    100% no-repeat;
+  width: 100vw;
+  position: absolute;
+  left: 0;
+  top: 24.17vw;
+  padding: 6.3vw 0 0 18.75vw;
+}
+
+.txt5 {
+  width: 68.86vw;
+  height: 7.82vw;
+  display: block;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.56vw;
+  letter-spacing: 2.502631664276123px;
+  line-height: 2.61vw;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.pic2 {
+  z-index: 4;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 112.5vw;
+}
+
+.main2 {
+  z-index: 13;
+  height: 3.65vw;
+  overflow: hidden;
+  background: url(./img/SketchPng36770a32d943becc6e2efa50f245961fb48d5dee341081d199155469dc41d044.png)
+    100% no-repeat;
+  width: 100vw;
+  position: relative;
+}
+
+.layer1 {
+  z-index: 16;
+  height: 3.65vw;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding-left: 47.66vw;
+  width: 100vw;
+  position: static;
+  left: 0;
+  top: 112.5vw;
+}
+
+.outer2 {
+  width: 4.8vw;
+  height: 1.78vw;
+}
+
+.icon1 {
+  width: 1.78vw;
+  height: 1.78vw;
+}
+
+.label1 {
+  width: 1.78vw;
+  height: 1.78vw;
+}
+
+.pic3 {
+  z-index: 14;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 3.65vw;
+}
