@@ -10,3 +10,26 @@
     background: url(./img/SketchPng2cf405b0b1176a4b0a487a297f18310547406df843a7a623bf8c077b096b6fc2.png) 100% no-repeat;
     background-size: 100% 100%;
 }
+
+
+.page1_background {
+    background: url(./img/SketchPngf07bf10bb7a3ee84ea9fae455f3cc618916de975100cfbf5c3d3c69026030e8f.png) 100% no-repeat;
+    background-size: 100% 100%;
+}
+
+.value_item_box {
+    padding: 20px;
+    width: 310px;
+    height: 188px;
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid #FFFFFF;
+}
+
+.value_item_txt {
+    font-size: 18px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 33px;
+    letter-spacing: 2px;
+}
