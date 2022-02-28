@@ -5,7 +5,7 @@
                 <img width="45px" src="./assets/img/logo.png">
                 <a target="_blank" style="text-decoration: none"
                    href="https://explorer.ssv.network/operators/e4edcb950ee9f4a4f89dde5e9b74b615c04f21f204884bc53ffe2bebbcea4b93">
-                    <span class="txt1">View</span>
+                    <span class="txt1">Node</span>
                 </a>
             </div>
             <div style="margin: 150px 260px 0px 260px">
