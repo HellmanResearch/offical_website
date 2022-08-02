@@ -19,7 +19,7 @@
             </div>
             <div style="margin: 80px 260px 0px 260px">
                 <p class="txt5">
-                    Hellman&nbsp;is&nbsp;a&nbsp;Web3&nbsp;research&nbsp;institute&nbsp;focusing&nbsp;on&nbsp;DAO,&nbsp;NFT,&nbsp;ETH&nbsp;and&nbsp;Layer2,&nbsp;and&nbsp;is&nbsp;actively&nbsp;involved&nbsp;in&nbsp;Ethereum&nbsp;POS&nbsp;direction.We&nbsp;have&nbsp;experience&nbsp;in&nbsp;building&nbsp;Filecoin's&nbsp;mining&nbsp;pools&nbsp;and&nbsp;participate&nbsp;in&nbsp;the&nbsp;SSV&nbsp;network.
+                  Hellman is a Web 3 research institute covering Ethereum, Layer 2, NFT, DAO extensively, and is actively involved in the infrastructure development of POS projects. With rich experience in PoW and PoS pools, such as Filecoin and Swarm, Hellman is now actively engaged in the ssv.network community.
                 </p>
             </div>
             <div class="txt2" style="text-align: center; margin: 405px 260px 0px 260px">Value</div>
