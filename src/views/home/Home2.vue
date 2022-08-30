@@ -9,7 +9,7 @@
                         <span class="txt1">Rewards</span>
                     </a>
                     <a target="_blank" style="text-decoration: none"
-                       href="https://explorer.ssv.network/operators/e4edcb950ee9f4a4f89dde5e9b74b615c04f21f204884bc53ffe2bebbcea4b93">
+                       href="https://explorer.ssv.network/operators/127">
                         <span class="txt1">Node</span>
                     </a>
                 </div>
